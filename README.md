@@ -12,7 +12,7 @@ pwx-app is a simple API allowing users to view, create, update and delete Catego
 - Flask-Migrate
 - Flask-Restless
 
-### Instructions do local deploy
+### Instructions to local deploy
 ```shell
 $ git clone https://github.com/romuluc/pwx-app.git
 
